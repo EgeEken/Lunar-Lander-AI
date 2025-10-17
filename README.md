@@ -1,5 +1,7 @@
 # Lunar Lander AI
 ### A neural network trained with reinforcement learning to perform well at the game Lunar Lander, simulated on the gymnasium library.
+### Demonstration and training code is in the IAR_MINI_PROJET.ipynb notebook 
+
 
 https://github.com/user-attachments/assets/2df938e5-d4d3-4966-b0e0-e69842cfb72a
 
